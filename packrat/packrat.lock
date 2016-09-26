@@ -6,6 +6,7 @@ Repos: CRAN=https://cran.rstudio.com/
 Package: BH
 Source: CRAN
 Version: 1.60.0-2
+Hash: be2967bcff307e561d9ba17faf03205c
 
 Package: DBI
 Source: CRAN
@@ -30,8 +31,8 @@ Hash: 0afb92b59b02593c70ff8046700ba9d3
 Package: dplyr
 Source: CRAN
 Version: 0.5.0
-Requires: BH, DBI, R6, Rcpp, assertthat, lazyeval, magrittr, tibble
 Hash: 03e5e71801c0f49217922e2cd4680f06
+Requires: BH, DBI, R6, Rcpp, assertthat, lazyeval, magrittr, tibble
 
 Package: lazyeval
 Source: CRAN
@@ -51,5 +52,5 @@ Hash: 6ad605ba7b4b476d84be6632393f5765
 Package: tibble
 Source: CRAN
 Version: 1.2
-Requires: Rcpp, assertthat, lazyeval
 Hash: 3b35b556ef7acddb0d28fe6a27ad50e4
+Requires: Rcpp, assertthat, lazyeval
